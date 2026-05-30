@@ -30,7 +30,8 @@ ec=Electric_car("tesla","s","80kwh")
 # print(ec.model)
 # print(ec.full_name()) 
 print(ec.fuel_type()) 
-print(my_car.fuel_type())         
+print(my_car.fuel_type()) 
+print(ec.battery_size)        
         
         
         
